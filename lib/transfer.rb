@@ -29,6 +29,9 @@ def reverse_transfer
   @sender.deposit(@amount)
   @status = "reversed"
 end
+end
+end
+
 
 
 
